@@ -1,0 +1,8 @@
+add
+edited in local
+inserted from Github
+<<<<<<< HEAD
+add from Remote
+=======
+local
+>>>>>>> 2e8e958 (local change)

@@ -1,4 +1,5 @@
 add
 edited in local
 inserted from Github
+local
 add from Remote
